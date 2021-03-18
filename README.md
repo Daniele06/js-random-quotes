@@ -5,4 +5,4 @@ Exercise 3 from the 100+ Javascript projects page (https://jsbeginners.com/javas
 
 This code takes a random quote from an array and display it on the page via refreshing the page or clicking a button.
 
-![project picture](randomquotes.png)
+![project picture](challenge3.png)
